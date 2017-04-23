@@ -14,7 +14,7 @@ long count(){
 	clock_t time_t, stop_t;
 	int var = 0;
 
-	printf("start\n");
+	printf("\rSTART\n");
 
 
 	time_t = clock();
